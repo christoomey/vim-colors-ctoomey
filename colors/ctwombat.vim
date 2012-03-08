@@ -9,7 +9,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "wombat"
+let colors_name = "ctwombat"
 
 " I Replaced all the italics with not Italics
 " Vim >= 7.0 specific colors
